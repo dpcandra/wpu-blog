@@ -6,5 +6,6 @@ input email
 input password
 
 btn_lupa password
+btn_lupa email
 
 submit btn
