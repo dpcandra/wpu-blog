@@ -9,3 +9,5 @@ btn_lupa password
 btn_lupa email
 
 submit btn
+
+function login()
