@@ -5,4 +5,6 @@ form login
 input email
 input password
 
+btn_lupa password
+
 submit btn
